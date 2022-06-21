@@ -1,0 +1,17 @@
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\bin\Debug\11a-ShoeShop-Project.exe.config
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\bin\Debug\11a-ShoeShop-Project.exe
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\bin\Debug\11a-ShoeShop-Project.pdb
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\bin\Debug\EntityFramework.dll
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\bin\Debug\EntityFramework.xml
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\_11a_ShoeShop_Project.Properties.Resources.resources
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\11a-ShoeShop-Project.csproj.GenerateResource.cache
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\11a-ShoeShop-Project.csproj.CoreCompileInputs.cache
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\11a-ShoeShop-Project.csproj.CopyComplete
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\11a-ShoeShop-Project.exe
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\11a-ShoeShop-Project.pdb
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\_11a_ShoeShop_Project.Migrations.InitalMigration.resources
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\11a-ShoeShop-Project.csprojAssemblyReference.cache
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\_11a_ShoeShop_Project.Form1.resources
+C:\Users\zagex\source\repos\11a-ShoeShop-Project\11a-ShoeShop-Project\obj\Debug\_11a_ShoeShop_Project.Migrations.InitialMigrationUpdated.resources

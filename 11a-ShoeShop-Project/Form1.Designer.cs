@@ -168,7 +168,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(27, 295);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(75, 35);
             this.button1.TabIndex = 13;
             this.button1.Text = "Add";
             this.button1.UseVisualStyleBackColor = true;
@@ -176,9 +176,9 @@
             // 
             // updateButton
             // 
-            this.updateButton.Location = new System.Drawing.Point(123, 329);
+            this.updateButton.Location = new System.Drawing.Point(27, 409);
             this.updateButton.Name = "updateButton";
-            this.updateButton.Size = new System.Drawing.Size(75, 23);
+            this.updateButton.Size = new System.Drawing.Size(75, 37);
             this.updateButton.TabIndex = 14;
             this.updateButton.Text = "Update";
             this.updateButton.UseVisualStyleBackColor = true;
@@ -188,7 +188,7 @@
             // 
             this.deleteButton.Location = new System.Drawing.Point(213, 295);
             this.deleteButton.Name = "deleteButton";
-            this.deleteButton.Size = new System.Drawing.Size(75, 23);
+            this.deleteButton.Size = new System.Drawing.Size(75, 35);
             this.deleteButton.TabIndex = 15;
             this.deleteButton.Text = "Delete";
             this.deleteButton.UseVisualStyleBackColor = true;
@@ -196,9 +196,9 @@
             // 
             // getAllButton
             // 
-            this.getAllButton.Location = new System.Drawing.Point(27, 366);
+            this.getAllButton.Location = new System.Drawing.Point(122, 350);
             this.getAllButton.Name = "getAllButton";
-            this.getAllButton.Size = new System.Drawing.Size(75, 23);
+            this.getAllButton.Size = new System.Drawing.Size(75, 37);
             this.getAllButton.TabIndex = 16;
             this.getAllButton.Text = "GetAll";
             this.getAllButton.UseVisualStyleBackColor = true;
@@ -206,9 +206,9 @@
             // 
             // findButton
             // 
-            this.findButton.Location = new System.Drawing.Point(213, 366);
+            this.findButton.Location = new System.Drawing.Point(213, 409);
             this.findButton.Name = "findButton";
-            this.findButton.Size = new System.Drawing.Size(75, 23);
+            this.findButton.Size = new System.Drawing.Size(75, 37);
             this.findButton.TabIndex = 17;
             this.findButton.Text = "Find";
             this.findButton.UseVisualStyleBackColor = true;
@@ -219,16 +219,16 @@
             this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 15;
-            this.listBox1.Location = new System.Drawing.Point(379, 84);
+            this.listBox1.Location = new System.Drawing.Point(337, 84);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(402, 289);
+            this.listBox1.Size = new System.Drawing.Size(649, 409);
             this.listBox1.TabIndex = 18;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(831, 487);
+            this.ClientSize = new System.Drawing.Size(1040, 657);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.findButton);
             this.Controls.Add(this.getAllButton);
@@ -250,6 +250,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

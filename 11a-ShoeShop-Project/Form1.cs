@@ -46,6 +46,7 @@ namespace _11a_ShoeShop_Project
             comboBox1.DataSource = allTypes;
             comboBox1.DisplayMember = "Name";
             comboBox1.ValueMember = "Id";
+            getAllButton_Click(sender, e);
         }
         private void label1_Click(object sender, EventArgs e)
         {
@@ -71,6 +72,7 @@ namespace _11a_ShoeShop_Project
             shoe.ShoeSize = int.Parse(textBox4.Text);
             shoe.ShoeTypeId = (int)comboBox1.SelectedValue;
             shoeBusiness.Add(shoe);
+            getAllButton_Click(sender, e);
             ClearScreen();
         }
 
@@ -141,6 +143,7 @@ namespace _11a_ShoeShop_Project
                 shoe2.Description = textBox5.Text;
                 shoe2.ShoeTypeId = (int)comboBox1.SelectedValue;
                 shoeBusiness.Update(id, shoe2);
+                getAllButton_Click(sender, e);
             }
         }
 
@@ -174,6 +177,7 @@ namespace _11a_ShoeShop_Project
             {
                 shoeBusiness.Delete(id);
             }
+            getAllButton_Click(sender, e);
         }
     }
 }
